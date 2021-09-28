@@ -10,10 +10,11 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 ### Screenshot
 ![Alt text](https://image.ibb.co/nhdEwK/phish.png "SocialPhish")
 
+Esta herramienta no es mia es de xHak9x
 
 ##### Usage:
 ```
-git clone https://github.com/xHak9x/SocialPhish.git
+git clone https://github.com/thiagous06/SocialPhish.git
 cd SocialPhish
 chmod +x socialphish.sh
 ./socialphish.sh
